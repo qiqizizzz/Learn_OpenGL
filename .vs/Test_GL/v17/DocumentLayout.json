@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\CCodes\\!OpenGL\\Test_GL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4307CB3-79DA-4E07-978A-1DEE6A918C2D}|Test_GL.vcxproj|D:\\CCodes\\!OpenGL\\Test_GL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4307CB3-79DA-4E07-978A-1DEE6A918C2D}|Test_GL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4307CB3-79DA-4E07-978A-1DEE6A918C2D}|Test_GL.vcxproj|D:\\CCodes\\!OpenGL\\Test_GL\\Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4307CB3-79DA-4E07-978A-1DEE6A918C2D}|Test_GL.vcxproj|solutionrelative:Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\CCodes\\!OpenGL\\Test_GL\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\CCodes\\!OpenGL\\Test_GL\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Title": "01_hello.cpp",
+              "DocumentMoniker": "D:\\CCodes\\!OpenGL\\Test_GL\\Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp",
+              "RelativeDocumentMoniker": "Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp",
+              "ToolTip": "D:\\CCodes\\!OpenGL\\Test_GL\\Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp",
+              "RelativeToolTip": "Test_GL\\01_OpenGL\u3001\u521B\u5EFA\u7A97\u53E3\u3001\u4F60\u597D\u7A97\u53E3\\01_hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-20T11:51:30.858Z",
               "EditorCaption": ""

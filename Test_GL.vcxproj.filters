@@ -13,13 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\1.OpenGL_创建窗口_你好窗口">
+      <UniqueIdentifier>{401d251a-b21b-429b-a929-7e23f7ac8925}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Test_GL\01_OpenGL、创建窗口、你好窗口\01_hello.cpp">
+      <Filter>源文件\1.OpenGL_创建窗口_你好窗口</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
