@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio 缓存与配置目录
+.vs/
+*.user
+*.suo
